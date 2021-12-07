@@ -1,0 +1,9 @@
+# no subir archivos
+pruebas.html
+/pruebas/imagen1.jpg
+
+#no subir directorio
+/pruebas
+
+# no subir archivos con extensión .txt
+*.txt
